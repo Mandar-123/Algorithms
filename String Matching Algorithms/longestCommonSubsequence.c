@@ -50,11 +50,10 @@ void main()
   lcs(X, Y,strlen(X),strlen(Y));
 }
 
-
-
-OUTPUT :
-
 /*
+
+OUTPUT:
+
 Enter 1st Sequence:
 nasucgbikbwdkfag
 Enter 2nd Sequence:
